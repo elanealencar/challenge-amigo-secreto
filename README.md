@@ -36,7 +36,7 @@ O "Amigo Secreto" é uma aplicação simples que permite adicionar nomes de part
 
 ## 📷 Captura de Tela
 
-![Amigo Secreto](assets/amigo-secreto-preview.png)
+![Amigo Secreto](https://github.com/elanealencar/challenge-amigo-secreto/blob/main/assets/preview.png)
 
 ## 🔧 Melhorias Futuras
 
